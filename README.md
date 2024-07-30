@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an ECE major at Carnegie Mellon University.  My main areas of interest are in the intersection of software and hardware, mainly embedded systems and logic verification.  I'm also always excited to pick up new technologies in the fields of web development and AI/ML!
+I'm an ECE major at Carnegie Mellon University.  My interests span across software, hardware, and mathematics.  In software, I have experience developing full-stack applications and networking systems.  In hardware, I have experience with RTL design.
 
 <!--
 **TeamTeaSC/TeamTeaSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
