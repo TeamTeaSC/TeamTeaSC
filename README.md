@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an ECE major at Carnegie Mellon University.  My interests span across software, hardware, and mathematics.  In software, I have experience developing full-stack applications and networking systems.  In hardware, I have experience with RTL design.
+I'm an ECE major at Carnegie Mellon University with a minor in Mathematical Sciences.  I am interested in both software systems (networking, distributed, databases, OS) and hardware systems (RTL design, computer architecture, FPGAs, ASICs).
 
 <!--
 **TeamTeaSC/TeamTeaSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
